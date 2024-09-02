@@ -5,7 +5,7 @@ This is a guide on how to setup a Win-Client in Virt-Manager
 
 ## Resources
  - WinFS => A Service which enables the function to access host directories https://winfsp.dev/rel/
- - VirtIO => Package for Ethernet-Adapters and also needed for WinFS
+ - VirtIO => Package for Ethernet-Adapters and also needed for WinFS https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso
 
 ## Steps
  1. If you dont have an internet connection you can share the files by enabling and disabling a USB-Stick (remember to dismount)
