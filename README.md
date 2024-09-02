@@ -22,3 +22,8 @@ This is a guide on how to setup a Win-Client in Virt-Manager
  10. Update Driver
  11. Now choose the CD-Disk we opened before and choose NetKVM/<windows-version>/<architecture>
  12. If the same Adapter appears again with a attention symbol than repeat 7-11
+
+## Links and Other Explanations
+https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Virtio_network
+https://superuser.com/questions/1671932/unable-to-connect-to-internet-in-windows-10-vm-using-kvm-qemu
